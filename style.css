@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto&display=swap');
+*{
+    margin: 0;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:  0 50px 0 50px;
+    
+}
+.sec-part{
+    height: 30px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+#background{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.books{
+    width: 150px;
+}
+.cart{
+    width: 17px;
+    margin-left: 5px;
+}
+.price{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    
+}
+div{
+    line-height: 15px;
+}
+
+.add,.adds{
+    display: flex;
+    background-color: #6196FF;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    font-size: 15px;
+    height: 27px;
+    align-items: center;
+    margin-left: 50px;
+    width: 60px;
+    
+}
+.adds{
+    margin-left: 150px;
+}
+
+h5,h6,p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+h6{
+    color: #A5A5A4;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+h3{
+    margin: 150px 0 7px 65px;
+}
+#books,#game,#handmade{
+   display: flex;
+   justify-content: space-evenly;
+    
+}
+.book-div,.game-div,.handmade-div{
+    display: flex;
+    justify-content: space-around;
+}
+.square-pic{
+    width: 260px;
+}
+footer{
+    background-color: black;
+    margin-top: 150px;
+    padding-top: 30px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+#foot{
+    color: white;
+    margin: 0px 0 10px 100px;
+    
+}
+#foots{
+    color: white;
+    margin-top: 28px;
+}
+#pfp{
+    width: 100px;
+    margin-left: 125px;
+    border-radius: 50px;
+}
+.right-side{
+    text-align: end;
+    margin-right: 100px;
+
+}
+
+
+
