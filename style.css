@@ -84,7 +84,7 @@ h3{
 footer{
     background-color: black;
     margin-top: 150px;
-    padding-top: 30px;
+    padding-top: 10px;
     height: 150px;
     display: flex;
     justify-content: space-between;
@@ -96,12 +96,12 @@ footer{
 }
 #foots{
     color: white;
-    margin-top: 28px;
+    margin-top: 40px;
 }
 #pfp{
-    width: 100px;
-    margin-left: 125px;
-    border-radius: 50px;
+    width: 110px;
+    margin-left: 115px;
+    border-radius: 100%;
 }
 .right-side{
     text-align: end;
